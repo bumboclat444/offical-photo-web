@@ -21,7 +21,7 @@ export function Home() {
         <div className="relative h-full flex items-center justify-center text-center text-white px-4">
           <div>
             <h1 className="text-5xl md:text-7xl font-bold mb-4">Capture Your Story</h1>
-            <p className="text-xl md:text-2xl mb-8">Professional portrait photography in New York</p>
+            <p className="text-xl md:text-2xl mb-8">Professional portrait photography in Los Angeles</p>
             <a href="/book" className="bg-white text-black px-8 py-3 rounded-md text-lg font-medium hover:bg-gray-100 transition-colors">
               Book a Session
             </a>
